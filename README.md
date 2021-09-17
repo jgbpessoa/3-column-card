@@ -46,8 +46,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-html-and-css-flexbox-fhc0YIwsb)
-- Live Site URL: [Preview Site](https://jgbpessoa.github.io/stats-preview-card/)
+- Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-html-and-css-flexbox-RTfmByunW)
+- Live Site URL: [Preview Site](https://jgbpessoa.github.io/3-column-card/)
 
 ## My process
 
