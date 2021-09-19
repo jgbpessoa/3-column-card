@@ -33,6 +33,18 @@ main {
   padding: 5.5rem 0;
 }
 
+.sr-only {
+  position: absolute;
+  top: auto;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+}
+
+/* Card Elements */
+
 .card-element {
   height: 27.5rem;
   margin: 0 1.5rem;
@@ -75,8 +87,6 @@ main {
   color: var(--clr-bg-h-btn);
   border: solid 2px var(--clr-bg-h-btn);
 }
-
-/* Card Styles */
 
 .card-sedans {
   background: var(--clr-card-1);
